@@ -1,9 +1,9 @@
 theme: jekyll-theme-slate
-url: "https://tietomallit.ymparisto.fi" # the base hostname & protocol for your site
-home: "https://tietomallit.ymparisto.fi/"
-repository: sykefi/ry-tietomallit
-name: "Rakennetun ympäristön tietomallit"
-name_short: "Rakennetun ympäristön tietomallit"
+url: "https://spatineo.github.io/ry-tietomallit/" # the base hostname & protocol for your site
+home: "https://spatineo.github.io/ry-tietomallit/"
+repository: spatineo/ry-tietomallit
+name: "RY-tietomallit - Spatineo"
+name_short: "RY-tietomallit - Spatineo"
 beta: true
 #google_analytics: G-TL17CQFMFK
 accessibility_statement_url: "/accessibility_statement.html"

@@ -14,7 +14,7 @@
  }
 
  #main_content_wrap {
-    background-image: url(../img/ym_background_4.svg);
+    /* background-image: url(../img/ym_background_4.svg); */
     background-size: 100% auto;
     background-repeat: no-repeat;
 }
@@ -53,6 +53,7 @@
         background-position-x: center;
       }
 
+      /*
       .slot1 {
         background-image: url(../img/YM_logo_official_fi_sv_en_RGB_1colour_white_L.png);
       }
@@ -64,7 +65,7 @@
       .slot3 {
         background-image: url(../img/ryhti_logo_valkoinen_rgb.png);
       }
-
+      */
       .copyright {
         p {
           color: #ffffff;
@@ -145,8 +146,9 @@
   }
 
   #header_wrap {
-    background-image: url(../img/VN-navigaatio-taustakuvio2.svg);
-    background-color:#274085;
+    /* background-image: url(../img/VN-navigaatio-taustakuvio2.svg); */
+    background: none;
+    background-color:#2f2f2f;
     background-size: 100% auto;
     position:relative;
 
