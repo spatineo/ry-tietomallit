@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-url: "https://spatineo.github.io/ry-tietomallit/" # the base hostname & protocol for your site
+url: "https://spatineo.github.io/ry-tietomallit" # the base hostname & protocol for your site
 home: "https://spatineo.github.io/ry-tietomallit/"
 repository: spatineo/ry-tietomallit
 name: "RY-tietomallit - Spatineo"
@@ -8,7 +8,7 @@ beta: true
 #google_analytics: G-TL17CQFMFK
 accessibility_statement_url: "/accessibility_statement.html"
 plugins:
-- jekyll-sitemap
+#- jekyll-sitemap
 - kramdown
 
 
