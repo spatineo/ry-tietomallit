@@ -41,3 +41,7 @@
 	path = docs/tonttijakosuunnitelma/dev
 	url = https://github.com/sykefi/Tonttijakosuunnitelman-tietomalli.git
 	branch = develop
+[submodule "docs/rakennusjarjestys/dev"]
+	path = docs/rakennusjarjestys/dev
+	url = https://github.com/spatineo/rakennusjarjestys.git
+	branch = develop
