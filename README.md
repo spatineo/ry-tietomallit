@@ -24,8 +24,10 @@ Sivulle voidaan linkittää mitä tahansa julkisia git-repoja, ja GitHub Pages -
 | Kaavatiedot                | dev    | [docs/kaavatiedot/](../../tree/main/docs/kaavatiedot/)dev | [github.com/sykefi/kaavatietomalli](https://github.com/sykefi/kaavatietomalli) | develop |  |
 | Tonttijakosuunnitelma      | 1.0.1    | [docs/tonttijakosuunnitelma/](../../tree/main/docs/tonttijakosuunnitelma/)v1.0 | [github.com/sykefi/Tonttijakosuunnitelman-tietomalli](https://github.com/sykefi/Tonttijakosuunnitelman-tietomalli) |  |  |
 | Tonttijakosuunnitelma      | dev    | [docs/tonttijakosuunnitelma/](../../tree/main/docs/tonttijakosuunnitelma/)dev | [github.com/sykefi/Tonttijakosuunnitelman-tietomalli](https://github.com/sykefi/Tonttijakosuunnitelman-tietomalli) | develop |  |
+| Kaupunkiseutusuunnitelma      | dev    | [docs/kaupunkiseutusuunnitelma/](../../tree/main/docs/kaupunkiseutusuunnitelma/)dev | [github.com/spatineo/kaupunkiseutusuunnitelma](https://github.com/spatineo/kaupunkiseutusuunnitelma) | develop |  |
 | Rakennuskohteet    | dev    | [docs/rakennuskohteet/](../../tree/main/docs/rakennuskohteet/)dev | [github.com/sykefi/rakennuskohteet](https://github.com/sykefi/rakennuskohteet) | develop |  |
 | Rakentamista koskevat lupapäätökset    | dev    | [docs/rakentamisenluvat/](../../tree/main/docs/rakentamisenluvat/)dev | [github.com/sykefi/rakentamisenluvat](https://github.com/sykefi/rakentamisenluvat) | develop |  |
+| Rakennusjärjestys      | dev    | [docs/rakennusjarjestys/](../../tree/main/docs/rakennusjarjestys/)dev | [github.com/spatineo/rakennusjarjestys](https://github.com/spatineo/rakennusjarjestys) | develop |  |
 | Yhteiset Sisältömakrot | | [docs/_includes/](../../tree/main/docs/_includes/)common | [github.com/sykefi/rytm-jekyll-includes](https://github.com/sykefi/rytm-jekyll-includes) | main | 
 
 Kulloinkin linkatut git submodulet ja niiden tilan saa tulostettua (linux-tyyppisessä komentoriviympäristössä) seuraavalla loitsulla:
@@ -43,10 +45,8 @@ Seuraavassa listassa on lueteltu [rakennetun ympäristön yhteentoimivuustyöss�
    * Yleisten alueiden suunnitelmat
    * Kaavatietomallin soveltamisprofiili maakuntakaavoille
    * Merialuesuunnitelma
-   * Kaupunkiseutusuunnitelma
 * Rakentaminen
    * Maankäytön rajoitukset
-   * Rakennusjärjestys
 * Kulttuuriympäristö
    * Rakennettu kulttuuriympäristö
    * Rakennusperinnön ja arkeologisen kulttuuriperinnön suojelu
@@ -79,4 +79,4 @@ GitHub Pages -sivugenerointia voi simuloida varsin uskottavasti paikallisella ty
 1. Sivusto tulee buildauksen jälkeen näkyviin osoitteeseen http://localhost:4000/ 
    Mikäli tulee virheilmoitus "docker: Cannot connect to the Docker daemon...", varmista, että asentamasi Docker Engine on käynnissä taustalla.
 1. Muokkaa sivuston tietoja tarpeellisilta osin, varmista, että kaikki näyttää hyvältä osoitteesta http://localhost:4000/
-1. On hyvä käytäntö olla tekemättä muutos-committeja suoraan linkitettyjen submodulien sisältöihin, ja tyypillisesti tietomallien kehittäjillä ei ole siihen oikeuksiakaan. Voit toki kokeilla muutoksia paikallisesti, kopioida ne  sitten muutoksiksi linkitettyihin repoihin, commitoida ja pushata, palauttaa muutokset ry-tietomallit -repon linkitetyissä hakemistoissa ```git restore```-komennolla, ja tehdä pull ry-tietomallit -repon paikallisen klooniin ko. modulin hakemistossa.
+1. On hyvä käytäntö olla tekemättä muutos-committeja suoraan linkitettyjen submodulien sisältöihin, ja tyypillisesti tietomallien kehittäjillä ei ole siihen oikeuksiakaan. Voit toki kokeilla muutoksia paikallisesti, kopioida ne  sitten muutoksiksi linkitettyihin repoihin, commitoida ja pushata, palauttaa muutokset ry-tietomallit -repon linkitetyissä hakemistoissa ```git restore```-komennolla, ja tehdä pull ry-tietomallit -repon paikalliseen klooniin ko. modulin hakemistossa.
