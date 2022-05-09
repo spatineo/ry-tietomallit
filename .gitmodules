@@ -45,3 +45,7 @@
 	path = docs/rakennusjarjestys/dev
 	url = https://github.com/spatineo/rakennusjarjestys.git
 	branch = develop
+[submodule "docs/kaupunkiseutusuunnitelma/dev"]
+	path = docs/kaupunkiseutusuunnitelma/dev
+	url = https://github.com/spatineo/kaupunkiseutusuunnitelma.git
+	branch = develop
