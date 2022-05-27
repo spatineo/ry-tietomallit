@@ -1,7 +1,7 @@
 title: "Rakennusjärjestys"
 ownership: "kuntaliitto"
 github:
-  owner_name: "spatineo"
+  owner_name: "Kuntaliitto"
   repository_name: "rakennusjarjestys"
 versions:
   - id: "dev"
