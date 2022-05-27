@@ -16,7 +16,7 @@ Sivulle voidaan linkittää mitä tahansa julkisia git-repoja, ja GitHub Pages -
 | Nimi                       | versio | hakemistopolku          | linkitetty git-repo          | tagi / haara / commit  | huom     |
 -----------------------------|--------|-------------------------|------------------------------|------------------------|----------|
 | RY-yläontologia            | dev    | [docs/ry-ylaontologia/](../../tree/main/docs/ry-ylaontologia/)dev | [github.com/sykefi/ry-ylaontologia](https://github.com/sykefi/ry-ylaontologia) | develop | |
-| RY-yhteiset komponentit    | dev    | [docs/ry-yhteiset/](../../tree/main/docs/ry-yhteiset/)dev | [github.com/sykefi/ry-yhteiset](https://github.com/sykefi/ry-yhteiset) | develop | |
+| RY-yhteiset komponentit    | dev    | [docs/ry-yhteiset/](../../tree/main/docs/ry-yhteiset/)dev | [github.com/spatineo/ry-yhteiset](https://github.com/spatineo/ry-yhteiset) | develop | |
 | Kaavatiedot                | 1.0.2  | [docs/kaavatiedot/](../../tree/main/docs/kaavatiedot/)v1.0 | [github.com/sykefi/kaavatietomalli](https://github.com/sykefi/kaavatietomalli) | |  |
 | Asemakaavan soveltamisprofiili | 1.0 | [docs/kaavatiedot/soveltamisprofiili/asemakaava/](../../tree/main/docs/kaavatiedot/soveltamisprofiili/asemakaava/)v1.0 | [github.com/sykefi/sp-asemakaava](https://github.com/sykefi/sp-asemakaava) |  |  |
 | Yleiskaavan soveltamisprofiili | 1.0 | [docs/kaavatiedot/soveltamisprofiili/yleiskaava/](../../tree/main/docs/kaavatiedot/soveltamisprofiili/yleiskaava/)v1.0 | [github.com/sykefi/sp-yleiskaava](https://github.com/sykefi/sp-yleiskaava) |  |  |
@@ -27,7 +27,7 @@ Sivulle voidaan linkittää mitä tahansa julkisia git-repoja, ja GitHub Pages -
 | Kaupunkiseutusuunnitelma      | dev    | [docs/kaupunkiseutusuunnitelma/](../../tree/main/docs/kaupunkiseutusuunnitelma/)dev | [github.com/spatineo/kaupunkiseutusuunnitelma](https://github.com/spatineo/kaupunkiseutusuunnitelma) | develop |  |
 | Rakennuskohteet    | dev    | [docs/rakennuskohteet/](../../tree/main/docs/rakennuskohteet/)dev | [github.com/sykefi/rakennuskohteet](https://github.com/sykefi/rakennuskohteet) | develop |  |
 | Rakentamista koskevat lupapäätökset    | dev    | [docs/rakentamisenluvat/](../../tree/main/docs/rakentamisenluvat/)dev | [github.com/sykefi/rakentamisenluvat](https://github.com/sykefi/rakentamisenluvat) | develop |  |
-| Rakennusjärjestys      | dev    | [docs/rakennusjarjestys/](../../tree/main/docs/rakennusjarjestys/)dev | [github.com/spatineo/rakennusjarjestys](https://github.com/spatineo/rakennusjarjestys) | develop |  |
+| Rakennusjärjestys      | dev    | [docs/rakennusjarjestys/](../../tree/main/docs/rakennusjarjestys/)dev | [github.com/Kuntaliitto/rakennusjarjestys](https://github.com/Kuntaliitto/rakennusjarjestys) | develop |  |
 | Yhteiset Sisältömakrot | | [docs/_includes/](../../tree/main/docs/_includes/)common | [github.com/sykefi/rytm-jekyll-includes](https://github.com/sykefi/rytm-jekyll-includes) | main | 
 
 Kulloinkin linkatut git submodulet ja niiden tilan saa tulostettua (linux-tyyppisessä komentoriviympäristössä) seuraavalla loitsulla:
