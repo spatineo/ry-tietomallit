@@ -28,7 +28,7 @@ Sivulle voidaan linkittää mitä tahansa julkisia git-repoja, ja GitHub Pages -
 | Rakennuskohteet    | dev    | [docs/rakennuskohteet/](../../tree/main/docs/rakennuskohteet/)dev | [github.com/sykefi/rakennuskohteet](https://github.com/sykefi/rakennuskohteet) | develop |  |
 | Rakentamista koskevat lupapäätökset    | dev    | [docs/rakentamisenluvat/](../../tree/main/docs/rakentamisenluvat/)dev | [github.com/sykefi/rakentamisenluvat](https://github.com/sykefi/rakentamisenluvat) | develop |  |
 | Rakennusjärjestys      | dev    | [docs/rakennusjarjestys/](../../tree/main/docs/rakennusjarjestys/)dev | [github.com/Kuntaliitto/rakennusjarjestys](https://github.com/Kuntaliitto/rakennusjarjestys) | develop |  |
-| Yhteiset Sisältömakrot | | [docs/_includes/](../../tree/main/docs/_includes/)common | [github.com/sykefi/rytm-jekyll-includes](https://github.com/sykefi/rytm-jekyll-includes) | main | 
+| Yhteiset Sisältömakrot | | [docs/_includes/](../../tree/main/docs/_includes/)common | [github.com/spatineo/rytm-jekyll-includes](https://github.com/spatineo/rytm-jekyll-includes) | main | 
 
 Kulloinkin linkatut git submodulet ja niiden tilan saa tulostettua (linux-tyyppisessä komentoriviympäristössä) seuraavalla loitsulla:
 ```sh
