@@ -31,7 +31,7 @@ nav_items:
         title: "UML-kaaviot"
         path: "uml/doc/"
         # tiedostona XMI/zip, jotta muutosmetatiedot päivittyvät
-        gitHubFile: "uml/rakennusjarjestys.zip"
+        gitHubFile: "uml/rakennusjarjestys.xml"
       - pageId: "elinkaarisaannot"
         title: "Elinkaarisäännöt"
         gitHubFile: "elinkaarisaannot.md"
