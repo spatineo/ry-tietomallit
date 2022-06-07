@@ -5,6 +5,7 @@ repository: spatineo/ry-tietomallit
 name: "RY-tietomallit - Spatineo"
 name_short: "RY-tietomallit - Spatineo"
 beta: true
+branch: spatineo-spinoff
 #google_analytics: G-TL17CQFMFK
 accessibility_statement_url: "/accessibility_statement.html"
 plugins:
