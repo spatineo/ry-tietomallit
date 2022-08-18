@@ -1,21 +1,6 @@
-[submodule "docs/kaavatiedot/soveltamisprofiili/asemakaava/v1.0"]
-	path = docs/kaavatiedot/soveltamisprofiili/asemakaava/v1.0
-	url = https://github.com/sykefi/sp-asemakaava.git
-[submodule "docs/rakennuskohteet/dev"]
-	path = docs/rakennuskohteet/dev
-	url = https://github.com/sykefi/rakennuskohteet.git
-	branch = develop
-[submodule "docs/rakentamisenluvat/dev"]
-	path = docs/rakentamisenluvat/dev
-	url = https://github.com/sykefi/rakentamisenluvat.git
-	branch = develop
-[submodule "docs/kaavatiedot/soveltamisprofiili/yleiskaava/v1.0"]
-	path = docs/kaavatiedot/soveltamisprofiili/yleiskaava/v1.0
-	url = https://github.com/sykefi/sp-yleiskaava.git
-[submodule "docs/ry-ylaontologia/dev"]
-	path = docs/ry-ylaontologia/dev
-	url = https://github.com/sykefi/ry-ylaontologia.git
-	branch = develop
+[submodule "docs/_includes/common"]
+	path = docs/_includes/common
+	url = https://github.com/spatineo/rytm-jekyll-includes.git
 [submodule "docs/kaavatiedot/v1.0"]
 	path = docs/kaavatiedot/v1.0
 	url = https://github.com/sykefi/kaavatietomalli.git
@@ -26,10 +11,32 @@
 	path = docs/kaavatiedot/dev
 	url = https://github.com/sykefi/kaavatietomalli.git
 	branch = develop
+[submodule "docs/kaavatiedot/soveltamisprofiili/asemakaava/v1.0"]
+	path = docs/kaavatiedot/soveltamisprofiili/asemakaava/v1.0
+	url = https://github.com/sykefi/sp-asemakaava.git
+[submodule "docs/kaavatiedot/soveltamisprofiili/yleiskaava/v1.0"]
+	path = docs/kaavatiedot/soveltamisprofiili/yleiskaava/v1.0
+	url = https://github.com/sykefi/sp-yleiskaava.git
+[submodule "docs/rakennuskohteet/dev"]
+	path = docs/rakennuskohteet/dev
+	url = https://github.com/sykefi/rakennuskohteet.git
+	branch = develop
+[submodule "docs/rakentamisenluvat/dev"]
+	path = docs/rakentamisenluvat/dev
+	url = https://github.com/sykefi/rakentamisenluvat.git
+	branch = develop
+[submodule "docs/ry-ylaontologia/dev"]
+	path = docs/ry-ylaontologia/dev
+	url = https://github.com/sykefi/ry-ylaontologia.git
+	branch = develop
 [submodule "docs/tonttijakosuunnitelma/v1.0"]
 	path = docs/tonttijakosuunnitelma/v1.0
 	url = https://github.com/sykefi/Tonttijakosuunnitelman-tietomalli.git
 	branch = branch-1.0
+[submodule "docs/tonttijakosuunnitelma/v1.1"]
+	path = docs/tonttijakosuunnitelma/v1.1
+	url = https://github.com/sykefi/Tonttijakosuunnitelman-tietomalli.git
+	branch = branch-1.1
 [submodule "docs/tonttijakosuunnitelma/dev"]
 	path = docs/tonttijakosuunnitelma/dev
 	url = https://github.com/sykefi/Tonttijakosuunnitelman-tietomalli.git
@@ -46,6 +53,8 @@
 	path = docs/ry-yhteiset/dev
 	url = https://github.com/spatineo/ry-yhteiset.git
 	branch = develop
-[submodule "docs/_includes/common"]
-	path = docs/_includes/common
-	url = https://github.com/spatineo/rytm-jekyll-includes.git
+
+[submodule "docs/rytj-soveltamisprofiili/dev"]
+	path = docs/rytj-soveltamisprofiili/dev
+	url = https://github.com/sykefi/rytj-soveltamisprofiili.git
+	branch = develop
