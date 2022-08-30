@@ -16,7 +16,6 @@ Näin saadaan aikaan tiedonsiirtopaketti, johon sisältyvät kaikki yhden kaavan
 
 Lisätietoja 23.8.2022 pidetyn elinkaarisääntöjen sparraustilaisuuden materiaalista:
 * [Interaktiivinen Miro-taulu](https://miro.com/app/board/uXjVPdDbppg=/?share_link_id=967230847193)
-* [PDF-versio esityksestä](./Elinkaarisaatojen-sparraus-2022-08-23.pdf)
 
 ## Tallennustiedostot
 Esimerkkejä kaavanlaadintasovelluksella laadittavasta, tallennuspalveluun vietävästä XML-muotoisesta kaavasta, joissa ei vielä ole pysyviä kohdekohtaisia tunnuksia.
