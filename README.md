@@ -26,7 +26,7 @@ Sivulle voidaan linkittää mitä tahansa julkisia git-repoja, ja GitHub Pages -
 | Tonttijakosuunnitelma      | 1.1    | [docs/tonttijakosuunnitelma/](../../tree/main/docs/tonttijakosuunnitelma/)v1.1 | [github.com/sykefi/Tonttijakosuunnitelman-tietomalli](https://github.com/sykefi/Tonttijakosuunnitelman-tietomalli) |  |  |
 | Tonttijakosuunnitelma      | 1.0.1    | [docs/tonttijakosuunnitelma/](../../tree/main/docs/tonttijakosuunnitelma/)v1.0 | [github.com/sykefi/Tonttijakosuunnitelman-tietomalli](https://github.com/sykefi/Tonttijakosuunnitelman-tietomalli) |  |  |
 | Tonttijakosuunnitelma      | dev    | [docs/tonttijakosuunnitelma/](../../tree/main/docs/tonttijakosuunnitelma/)dev | [github.com/sykefi/Tonttijakosuunnitelman-tietomalli](https://github.com/sykefi/Tonttijakosuunnitelman-tietomalli) | develop |  |
-| Kaupunkiseutusuunnitelma      | dev    | [docs/kaupunkiseutusuunnitelma/](../../tree/main/docs/kaupunkiseutusuunnitelma/)dev | [github.com/spatineo/kaupunkiseutusuunnitelma](https://github.com/spatineo/kaupunkiseutusuunnitelma) | develop |  |
+| Kaupunkiseutusuunnitelma      | dev    | [docs/kaupunkiseutusuunnitelma/](../../tree/main/docs/kaupunkiseutusuunnitelma/)dev | [github.com/sykefi/kaupunkiseutusuunnitelma](https://github.com/sykefi/kaupunkiseutusuunnitelma) | develop |  |
 | Rakennuskohteet    | dev    | [docs/rakennuskohteet/](../../tree/main/docs/rakennuskohteet/)dev | [github.com/sykefi/rakennuskohteet](https://github.com/sykefi/rakennuskohteet) | develop |  |
 | Rakentamista koskevat lupapäätökset    | dev    | [docs/rakentamisenluvat/](../../tree/main/docs/rakentamisenluvat/)dev | [github.com/sykefi/rakentamisenluvat](https://github.com/sykefi/rakentamisenluvat) | develop |  |
 | Yhteiset Sisältömakrot | | [docs/_includes/](../../tree/main/docs/_includes/)common | [github.com/sykefi/rytm-jekyll-includes](https://github.com/sykefi/rytm-jekyll-includes) | main |
@@ -48,12 +48,6 @@ Seuraavassa listassa on lueteltu [rakennetun ympäristön yhteentoimivuustyöss�
    * Yleisten alueiden suunnitelmat
    * Kaavatietomallin soveltamisprofiili maakuntakaavoille
    * Merialuesuunnitelma
-<<<<<<< HEAD
-* Rakentaminen
-   * Maankäytön rajoitukset
-=======
-   * Kaupunkiseutusuunnitelma
->>>>>>> main
 * Kulttuuriympäristö
    * Rakennettu kulttuuriympäristö
    * Rakennusperinnön ja arkeologisen kulttuuriperinnön suojelu
