@@ -23,7 +23,7 @@
 	branch = develop
 [submodule "docs/rakentamisenluvat/dev"]
 	path = docs/rakentamisenluvat/dev
-	url = https://github.com/sykefi/rakentamisenluvat.git
+	url = https://github.com/spatineo/rakentamisenluvat.git
 	branch = develop
 [submodule "docs/ry-ylaontologia/dev"]
 	path = docs/ry-ylaontologia/dev
