@@ -19,7 +19,7 @@
 	url = https://github.com/sykefi/sp-yleiskaava.git
 [submodule "docs/rakennuskohteet/dev"]
 	path = docs/rakennuskohteet/dev
-	url = https://github.com/sykefi/rakennuskohteet.git
+	url = https://github.com/spatineo/rakennuskohteet.git
 	branch = develop
 [submodule "docs/rakentamisenluvat/dev"]
 	path = docs/rakentamisenluvat/dev
