@@ -27,6 +27,8 @@ nav_items:
         title: "Dokumentaatio"
       - pageId: "laatusaannot"
         title: "Laatusäännöt"
+        gitHubFile: "laatusaannot.md"
+        path: "laatusaannot.html"
       - pageId: "uml-doc"
         title: "UML-kaaviot"
         path: "uml/doc/"
