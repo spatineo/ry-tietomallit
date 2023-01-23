@@ -11,6 +11,8 @@ versions:
     dependencies:
       - moduleId: "yhteisetkomponentit"
         version: "v1.0"
+      - moduleId: "kaavatiedot"
+        version: "dev"
   - id: "dev"
     title: "Seuraava kehitysversio"
     path: "dev"
@@ -19,6 +21,8 @@ versions:
     dependencies:
       - moduleId: "yhteisetkomponentit"
         version: "v1.0"
+      - moduleId: "kaavatiedot"
+        version: "dev"
 basepath: "rakennuskohteet"
 nav_items:
   - pageId: "rakennuskohteet"
