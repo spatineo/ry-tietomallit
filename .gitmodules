@@ -19,11 +19,11 @@
 	url = https://github.com/sykefi/sp-yleiskaava.git
 [submodule "docs/rakennuskohteet/dev"]
 	path = docs/rakennuskohteet/dev
-	url = https://github.com/spatineo/rakennuskohteet.git
+	url = https://github.com/sykefi/rakennuskohteet.git
 	branch = develop
 [submodule "docs/rakentamisenluvat/dev"]
 	path = docs/rakentamisenluvat/dev
-	url = https://github.com/spatineo/rakentamisenluvat.git
+	url = https://github.com/sykefi/rakentamisenluvat.git
 	branch = develop
 [submodule "docs/ry-ylaontologia/dev"]
 	path = docs/ry-ylaontologia/dev
@@ -47,7 +47,7 @@
 	branch = develop
 [submodule "docs/ry-yhteiset/dev"]
 	path = docs/ry-yhteiset/dev
-	url = https://github.com/spatineo/ry-yhteiset.git
+	url = https://github.com/sykefi/ry-yhteiset.git
 	branch = develop
 
 [submodule "docs/rytj-soveltamisprofiili/dev"]
@@ -74,10 +74,10 @@
 	url = https://github.com/sykefi/kaupunkiseutusuunnitelma.git
 [submodule "docs/ry-yhteiset/v1.0"]
 	path = docs/ry-yhteiset/v1.0
-	url = https://github.com/spatineo/ry-yhteiset.git
+	url = https://github.com/sykefi/ry-yhteiset.git
 [submodule "docs/rakennuskohteet/v1.0"]
 	path = docs/rakennuskohteet/v1.0
-	url = https://github.com/spatineo/rakennuskohteet.git
+	url = https://github.com/sykefi/rakennuskohteet.git
 [submodule "docs/rakentamisenluvat/v1.0"]
 	path = docs/rakentamisenluvat/v1.0
-	url = https://github.com/spatineo/rakentamisenluvat.git
+	url = https://github.com/sykefi/rakentamisenluvat.git
