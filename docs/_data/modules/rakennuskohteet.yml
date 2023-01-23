@@ -4,11 +4,17 @@ github:
   owner_name: "spatineo"
   repository_name: "rakennuskohteet"
 versions:
+  - id: "v1.0"
+    title: "Ensimmäinen julkaisuversio"
+    path: "v1.0"
+    default: true
+    dependencies:
+      - moduleId: "yhteisetkomponentit"
+        version: "v1.0"
   - id: "dev"
-    title: "Ensimmäinen kehitysversio"
+    title: "Seuraava kehitysversio"
     path: "dev"
     git-branch: "develop"
-    default: true
     development: true
     dependencies:
       - moduleId: "yhteisetkomponentit"

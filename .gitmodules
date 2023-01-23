@@ -75,3 +75,6 @@
 [submodule "docs/ry-yhteiset/v1.0"]
 	path = docs/ry-yhteiset/v1.0
 	url = https://github.com/spatineo/ry-yhteiset.git
+[submodule "docs/rakennuskohteet/v1.0"]
+	path = docs/rakennuskohteet/v1.0
+	url = https://github.com/spatineo/rakennuskohteet.git
