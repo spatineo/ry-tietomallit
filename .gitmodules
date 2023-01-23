@@ -78,3 +78,6 @@
 [submodule "docs/rakennuskohteet/v1.0"]
 	path = docs/rakennuskohteet/v1.0
 	url = https://github.com/spatineo/rakennuskohteet.git
+[submodule "docs/rakentamisenluvat/v1.0"]
+	path = docs/rakentamisenluvat/v1.0
+	url = https://github.com/spatineo/rakentamisenluvat.git
