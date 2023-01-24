@@ -2,6 +2,7 @@ theme: jekyll-theme-slate
 url: "https://spatineo.github.io/ry-tietomallit" # the base hostname & protocol for your site
 home: "https://spatineo.github.io/ry-tietomallit/"
 repository: spatineo/ry-tietomallit
+title: "RY-tietomallit - Spatineo"
 name: "RY-tietomallit - Spatineo"
 name_short: "RY-tietomallit - Spatineo"
 beta: true
